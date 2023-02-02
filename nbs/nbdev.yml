@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "saycan"
+  site-url: "https://xrsrke.github.io/saycan"
+  description: "Implementation of SayCan: Grounding Language in Robotic Affordances"
+  repo-branch: main
+  repo-url: "https://github.com/xrsrke/saycan"
