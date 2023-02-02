@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://xrsrke.github.io',
                 'git_url': 'https://github.com/xrsrke/saycan',
                 'lib_path': 'saycan'},
-  'syms': {'saycan.core': {'saycan.core.foo': ('core.html#foo', 'saycan/core.py')}}}
+  'syms': {'saycan.core': {'saycan.core.foo': ('core.html#foo', 'saycan/core.py')}, 'saycan.env': {}}}
